@@ -1,0 +1,27 @@
+.cars{
+    background-color: aqua;
+    border: 2px solid red;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+}
+
+.fruits{
+    background-color: green;
+    border: 3px crimson yellow;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+}
+
+.CARS{
+    background-color: blue;
+    border: 3px solid firebrick;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+}
+
+#wanafunzi{
+    background-color: aquamarine;
+}

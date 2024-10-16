@@ -1,0 +1,15 @@
+h2{
+    color: red;
+    text-align: center;
+    font-family: roboto;
+    font-size: xx-small;
+}
+th,td{
+    border: 2px solid ;
+    padding: 10px;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+    font-family: Arial, Serif;
+}
